@@ -82,7 +82,7 @@ export default function App() {
               <Ionicons name="chevron-back-circle-outline" size={33} color="#abc0d9" />
             </View>
           </TouchableOpacity>
-            <Text style={styles.Tittle}>Main Menu</Text>
+            <Text style={styles.Tittle}>View Courses</Text>
           <TouchableOpacity>
             <View style={styles.menu}>
               <SimpleLineIcons name="menu" size={24} color="#abc0d9" />
