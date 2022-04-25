@@ -159,7 +159,8 @@ BackButton:{
 Tittle:{
   color:"#abc0d9",
   fontSize:20,
-  fontFamily:"normal"
+  fontFamily:"normal",
+  fontWeight:"bold"
 },
 menu:{
   marginRight:5,
